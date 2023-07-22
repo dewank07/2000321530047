@@ -6,9 +6,9 @@ import './App.css';
 const Navbar = () => {
     return (
         <div className='nav'>
-            <h2>Name</h2>
+            <h2>rajdhani APP</h2>
             <div className='admin small'>
-                <h2>Admin Name</h2>
+                <h2>Dewank</h2>
 
             </div>
         </div>
